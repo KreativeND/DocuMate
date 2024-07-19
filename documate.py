@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai 
 
-api_key = "AIzaSyAlC1st2XErFx2cyVPCM52XRamupHsgcBE"
+api_key = ""
 genai.configure(api_key=api_key)
 
 hide_st_style = """
